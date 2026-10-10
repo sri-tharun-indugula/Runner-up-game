@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1b2a"/>
+      <stop offset="100%" stop-color="#1b263b"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#sky)"/>
+  <text x="400" y="88" text-anchor="middle" font-family="Orbitron, sans-serif" font-weight="bold" font-size="42" fill="#2de2e6" stroke="#ff2e97" stroke-width="1">THARUN RUNNER</text>
+  <text x="400" y="128" text-anchor="middle" font-family="Rajdhani, sans-serif" font-size="22" fill="#ffe66d">Tharun Infinity Runner  Jump farther. Run longer.</text>
+  <rect x="0" y="168" width="800" height="32" fill="#2de2e6" opacity="0.25"/>
+</svg>
