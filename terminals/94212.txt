@@ -1,0 +1,14 @@
+---
+pid: 20020
+cwd: "C:\\Users\\sindu"
+command: "& \"C:\\nvm4w\\nodejs\\node.exe\" -v"
+started_at: 2026-08-01T14:03:11.953Z
+running_for_ms: 30012    
+---
+v24.18.1
+
+---
+exit_code: 0
+elapsed_ms: 31603
+ended_at: 2026-08-01T14:03:43.556Z
+---

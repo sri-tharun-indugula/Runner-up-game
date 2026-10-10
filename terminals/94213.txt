@@ -1,0 +1,757 @@
+---
+pid: 14200
+cwd: "C:\\Users\\sindu"
+command: "pwd; Get-ChildItem -Force 2>&1"
+started_at: 2026-08-01T14:09:02.886Z
+running_for_ms: 35093    
+---
+
+Path          
+----          
+C:\Users\sindu
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\.copilot
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : .copilot
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : .copilot
+FullName          : C:\Users\sindu\.copilot
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : .copilot
+CreationTime      : 01-08-2026 19:32:12
+CreationTimeUtc   : 01-08-2026 14:02:12
+LastAccessTime    : 01-08-2026 19:32:12
+LastAccessTimeUtc : 01-08-2026 14:02:12
+LastWriteTime     : 01-08-2026 19:32:12
+LastWriteTimeUtc  : 01-08-2026 14:02:12
+Attributes        : Directory
+Mode              : d-----
+BaseName          : .copilot
+Target            : {}
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\.cursor
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : .cursor
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : .cursor
+FullName          : C:\Users\sindu\.cursor
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : .cursor
+CreationTime      : 11-07-2026 18:41:37
+CreationTimeUtc   : 11-07-2026 13:11:37
+LastAccessTime    : 01-08-2026 19:28:31
+LastAccessTimeUtc : 01-08-2026 13:58:31
+LastWriteTime     : 11-07-2026 18:45:03
+LastWriteTimeUtc  : 11-07-2026 13:15:03
+Attributes        : Directory
+Mode              : d-----
+BaseName          : .cursor
+Target            : {}
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\.ms-ad
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : .ms-ad
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : .ms-ad
+FullName          : C:\Users\sindu\.ms-ad
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : .ms-ad
+CreationTime      : 13-10-2025 15:15:08
+CreationTimeUtc   : 13-10-2025 09:45:08
+LastAccessTime    : 01-08-2026 19:39:01
+LastAccessTimeUtc : 01-08-2026 14:09:01
+LastWriteTime     : 13-10-2025 15:15:08
+LastWriteTimeUtc  : 13-10-2025 09:45:08
+Attributes        : Directory
+Mode              : d-----
+BaseName          : .ms-ad
+Target            : {}
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\.vscode
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : .vscode
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : .vscode
+FullName          : C:\Users\sindu\.vscode
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : .vscode
+CreationTime      : 14-10-2025 14:51:02
+CreationTimeUtc   : 14-10-2025 09:21:02
+LastAccessTime    : 01-08-2026 19:26:44
+LastAccessTimeUtc : 01-08-2026 13:56:44
+LastWriteTime     : 14-10-2025 14:51:07
+LastWriteTimeUtc  : 14-10-2025 09:21:07
+Attributes        : Directory
+Mode              : d-----
+BaseName          : .vscode
+Target            : {}
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\.vscode-insiders
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : .vscode-insiders
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : .vscode-insiders
+FullName          : C:\Users\sindu\.vscode-insiders
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : .vscode-insiders
+CreationTime      : 17-10-2025 16:03:20
+CreationTimeUtc   : 17-10-2025 10:33:20
+LastAccessTime    : 01-08-2026 19:39:01
+LastAccessTimeUtc : 01-08-2026 14:09:01
+LastWriteTime     : 17-10-2025 16:03:25
+LastWriteTimeUtc  : 17-10-2025 10:33:25
+Attributes        : Directory
+Mode              : d-----
+BaseName          : .vscode-insiders
+Target            : {}
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\.vscode-shared
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : .vscode-shared
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : .vscode-shared
+FullName          : C:\Users\sindu\.vscode-shared
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : .vscode-shared
+CreationTime      : 01-08-2026 19:32:01
+CreationTimeUtc   : 01-08-2026 14:02:01
+LastAccessTime    : 01-08-2026 19:32:01
+LastAccessTimeUtc : 01-08-2026 14:02:01
+LastWriteTime     : 01-08-2026 19:32:01
+LastWriteTimeUtc  : 01-08-2026 14:02:01
+Attributes        : Directory
+Mode              : d-----
+BaseName          : .vscode-shared
+Target            : {}
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\AppData
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : AppData
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : AppData
+FullName          : C:\Users\sindu\AppData
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : 
+CreationTime      : 10-10-2025 15:38:27
+CreationTimeUtc   : 10-10-2025 10:08:27
+LastAccessTime    : 01-08-2026 19:21:48
+LastAccessTimeUtc : 01-08-2026 13:51:48
+LastWriteTime     : 10-10-2025 15:38:28
+LastWriteTimeUtc  : 10-10-2025 10:08:28
+Attributes        : Hidden, Directory
+Mode              : d--h--
+BaseName          : AppData
+Target            : {}
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\Application Data
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : Application Data
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : Application Data
+FullName          : C:\Users\sindu\Application Data
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : 
+CreationTime      : 10-10-2025 15:38:28
+CreationTimeUtc   : 10-10-2025 10:08:28
+LastAccessTime    : 10-10-2025 15:38:28
+LastAccessTimeUtc : 10-10-2025 10:08:28
+LastWriteTime     : 10-10-2025 15:38:28
+LastWriteTimeUtc  : 10-10-2025 10:08:28
+Attributes        : Hidden, System, Directory, ReparsePoint, NotContentIndexed
+Mode              : d--hsl
+BaseName          : Application Data
+Target            : 
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\Contacts
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : Contacts
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : Contacts
+FullName          : C:\Users\sindu\Contacts
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : 
+CreationTime      : 10-10-2025 15:39:28
+CreationTimeUtc   : 10-10-2025 10:09:28
+LastAccessTime    : 01-08-2026 19:21:50
+LastAccessTimeUtc : 01-08-2026 13:51:50
+LastWriteTime     : 10-10-2025 15:39:28
+LastWriteTimeUtc  : 10-10-2025 10:09:28
+Attributes        : ReadOnly, Directory
+Mode              : d-r---
+BaseName          : Contacts
+Target            : {}
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\Cookies
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : Cookies
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : Cookies
+FullName          : C:\Users\sindu\Cookies
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : 
+CreationTime      : 10-10-2025 15:38:28
+CreationTimeUtc   : 10-10-2025 10:08:28
+LastAccessTime    : 10-10-2025 15:38:28
+LastAccessTimeUtc : 10-10-2025 10:08:28
+LastWriteTime     : 10-10-2025 15:38:28
+LastWriteTimeUtc  : 10-10-2025 10:08:28
+Attributes        : Hidden, System, Directory, ReparsePoint, NotContentIndexed
+Mode              : d--hsl
+BaseName          : Cookies
+Target            : 
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\Documents
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : Documents
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : Documents
+FullName          : C:\Users\sindu\Documents
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : 
+CreationTime      : 10-10-2025 15:38:27
+CreationTimeUtc   : 10-10-2025 10:08:27
+LastAccessTime    : 01-08-2026 19:29:00
+LastAccessTimeUtc : 01-08-2026 13:59:00
+LastWriteTime     : 10-10-2025 15:47:22
+LastWriteTimeUtc  : 10-10-2025 10:17:22
+Attributes        : Directory
+Mode              : d-----
+BaseName          : Documents
+Target            : {}
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\Downloads
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : Downloads
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : Downloads
+FullName          : C:\Users\sindu\Downloads
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : 
+CreationTime      : 10-10-2025 15:38:27
+CreationTimeUtc   : 10-10-2025 10:08:27
+LastAccessTime    : 01-08-2026 19:21:49
+LastAccessTimeUtc : 01-08-2026 13:51:49
+LastWriteTime     : 31-07-2026 22:08:02
+LastWriteTimeUtc  : 31-07-2026 16:38:02
+Attributes        : ReadOnly, Directory
+Mode              : d-r---
+BaseName          : Downloads
+Target            : {}
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\Favorites
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : Favorites
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : Favorites
+FullName          : C:\Users\sindu\Favorites
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : 
+CreationTime      : 10-10-2025 15:38:27
+CreationTimeUtc   : 10-10-2025 10:08:27
+LastAccessTime    : 01-08-2026 19:21:50
+LastAccessTimeUtc : 01-08-2026 13:51:50
+LastWriteTime     : 10-10-2025 15:39:28
+LastWriteTimeUtc  : 10-10-2025 10:09:28
+Attributes        : ReadOnly, Directory
+Mode              : d-r---
+BaseName          : Favorites
+Target            : {}
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\Links
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : Links
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : Links
+FullName          : C:\Users\sindu\Links
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : 
+CreationTime      : 10-10-2025 15:38:27
+CreationTimeUtc   : 10-10-2025 10:08:27
+LastAccessTime    : 01-08-2026 19:21:50
+LastAccessTimeUtc : 01-08-2026 13:51:50
+LastWriteTime     : 10-10-2025 15:39:29
+LastWriteTimeUtc  : 10-10-2025 10:09:29
+Attributes        : ReadOnly, Directory
+Mode              : d-r---
+BaseName          : Links
+Target            : {}
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\Local Settings
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : Local Settings
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : Local Settings
+FullName          : C:\Users\sindu\Local Settings
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : 
+CreationTime      : 10-10-2025 15:38:28
+CreationTimeUtc   : 10-10-2025 10:08:28
+LastAccessTime    : 10-10-2025 15:38:28
+LastAccessTimeUtc : 10-10-2025 10:08:28
+LastWriteTime     : 10-10-2025 15:38:28
+LastWriteTimeUtc  : 10-10-2025 10:08:28
+Attributes        : Hidden, System, Directory, ReparsePoint, NotContentIndexed
+Mode              : d--hsl
+BaseName          : Local Settings
+Target            : 
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\Music
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : Music
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : Music
+FullName          : C:\Users\sindu\Music
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : 
+CreationTime      : 10-10-2025 15:38:27
+CreationTimeUtc   : 10-10-2025 10:08:27
+LastAccessTime    : 01-08-2026 19:21:49
+LastAccessTimeUtc : 01-08-2026 13:51:49
+LastWriteTime     : 10-10-2025 15:39:29
+LastWriteTimeUtc  : 10-10-2025 10:09:29
+Attributes        : ReadOnly, Directory
+Mode              : d-r---
+BaseName          : Music
+Target            : {}
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\My Documents
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : My Documents
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : My Documents
+FullName          : C:\Users\sindu\My Documents
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : 
+CreationTime      : 10-10-2025 15:38:28
+CreationTimeUtc   : 10-10-2025 10:08:28
+LastAccessTime    : 10-10-2025 15:38:28
+LastAccessTimeUtc : 10-10-2025 10:08:28
+LastWriteTime     : 10-10-2025 15:38:28
+LastWriteTimeUtc  : 10-10-2025 10:08:28
+Attributes        : Hidden, System, Directory, ReparsePoint, NotContentIndexed
+Mode              : d--hsl
+BaseName          : My Documents
+Target            : 
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\NetHood
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : NetHood
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : NetHood
+FullName          : C:\Users\sindu\NetHood
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : 
+CreationTime      : 10-10-2025 15:38:28
+CreationTimeUtc   : 10-10-2025 10:08:28
+LastAccessTime    : 10-10-2025 15:38:28
+LastAccessTimeUtc : 10-10-2025 10:08:28
+LastWriteTime     : 10-10-2025 15:38:28
+LastWriteTimeUtc  : 10-10-2025 10:08:28
+Attributes        : Hidden, System, Directory, ReparsePoint, NotContentIndexed
+Mode              : d--hsl
+BaseName          : NetHood
+Target            : 
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\OneDrive
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : OneDrive
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : OneDrive
+FullName          : C:\Users\sindu\OneDrive
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : 
+CreationTime      : 10-10-2025 15:44:35
+CreationTimeUtc   : 10-10-2025 10:14:35
+LastAccessTime    : 01-08-2026 19:22:16
+LastAccessTimeUtc : 01-08-2026 13:52:16
+LastWriteTime     : 01-08-2026 19:22:16
+LastWriteTimeUtc  : 01-08-2026 13:52:16
+Attributes        : ReadOnly, Directory, Archive, ReparsePoint
+Mode              : dar--l
+BaseName          : OneDrive
+Target            : {}
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\PrintHood
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : PrintHood
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : PrintHood
+FullName          : C:\Users\sindu\PrintHood
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : 
+CreationTime      : 10-10-2025 15:38:28
+CreationTimeUtc   : 10-10-2025 10:08:28
+LastAccessTime    : 10-10-2025 15:38:28
+LastAccessTimeUtc : 10-10-2025 10:08:28
+LastWriteTime     : 10-10-2025 15:38:28
+LastWriteTimeUtc  : 10-10-2025 10:08:28
+Attributes        : Hidden, System, Directory, ReparsePoint, NotContentIndexed
+Mode              : d--hsl
+BaseName          : PrintHood
+Target            : 
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\Recent
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : Recent
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : Recent
+FullName          : C:\Users\sindu\Recent
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : 
+CreationTime      : 10-10-2025 15:38:28
+CreationTimeUtc   : 10-10-2025 10:08:28
+LastAccessTime    : 10-10-2025 15:38:28
+LastAccessTimeUtc : 10-10-2025 10:08:28
+LastWriteTime     : 10-10-2025 15:38:28
+LastWriteTimeUtc  : 10-10-2025 10:08:28
+Attributes        : Hidden, System, Directory, ReparsePoint, NotContentIndexed
+Mode              : d--hsl
+BaseName          : Recent
+Target            : 
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\Saved Games
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : Saved Games
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : Saved Games
+FullName          : C:\Users\sindu\Saved Games
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : 
+CreationTime      : 10-10-2025 15:38:27
+CreationTimeUtc   : 10-10-2025 10:08:27
+LastAccessTime    : 01-08-2026 19:21:50
+LastAccessTimeUtc : 01-08-2026 13:51:50
+LastWriteTime     : 10-10-2025 15:39:29
+LastWriteTimeUtc  : 10-10-2025 10:09:29
+Attributes        : ReadOnly, Directory
+Mode              : d-r---
+BaseName          : Saved Games
+Target            : {}
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\Searches
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : Searches
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : Searches
+FullName          : C:\Users\sindu\Searches
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : 
+CreationTime      : 10-10-2025 15:39:29
+CreationTimeUtc   : 10-10-2025 10:09:29
+LastAccessTime    : 01-08-2026 19:21:50
+LastAccessTimeUtc : 01-08-2026 13:51:50
+LastWriteTime     : 10-10-2025 15:45:45
+LastWriteTimeUtc  : 10-10-2025 10:15:45
+Attributes        : ReadOnly, Directory
+Mode              : d-r---
+BaseName          : Searches
+Target            : {}
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\SendTo
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : SendTo
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : SendTo
+FullName          : C:\Users\sindu\SendTo
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : 
+CreationTime      : 10-10-2025 15:38:28
+CreationTimeUtc   : 10-10-2025 10:08:28
+LastAccessTime    : 10-10-2025 15:38:28
+LastAccessTimeUtc : 10-10-2025 10:08:28
+LastWriteTime     : 10-10-2025 15:38:28
+LastWriteTimeUtc  : 10-10-2025 10:08:28
+Attributes        : Hidden, System, Directory, ReparsePoint, NotContentIndexed
+Mode              : d--hsl
+BaseName          : SendTo
+Target            : 
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\Start Menu
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : Start Menu
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : Start Menu
+FullName          : C:\Users\sindu\Start Menu
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : 
+CreationTime      : 10-10-2025 15:38:28
+CreationTimeUtc   : 10-10-2025 10:08:28
+LastAccessTime    : 10-10-2025 15:38:28
+LastAccessTimeUtc : 10-10-2025 10:08:28
+LastWriteTime     : 10-10-2025 15:38:28
+LastWriteTimeUtc  : 10-10-2025 10:08:28
+Attributes        : Hidden, System, Directory, ReparsePoint, NotContentIndexed
+Mode              : d--hsl
+BaseName          : Start Menu
+Target            : 
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\Templates
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : Templates
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : Templates
+FullName          : C:\Users\sindu\Templates
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : 
+CreationTime      : 10-10-2025 15:38:28
+CreationTimeUtc   : 10-10-2025 10:08:28
+LastAccessTime    : 10-10-2025 15:38:28
+LastAccessTimeUtc : 10-10-2025 10:08:28
+LastWriteTime     : 10-10-2025 15:38:28
+LastWriteTimeUtc  : 10-10-2025 10:08:28
+Attributes        : Hidden, System, Directory, ReparsePoint, NotContentIndexed
+Mode              : d--hsl
+BaseName          : Templates
+Target            : 
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\unleashflags
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : unleashflags
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : unleashflags
+FullName          : C:\Users\sindu\unleashflags
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : 
+CreationTime      : 23-10-2025 21:08:14
+CreationTimeUtc   : 23-10-2025 15:38:14
+LastAccessTime    : 01-08-2026 19:29:00
+LastAccessTimeUtc : 01-08-2026 13:59:00
+LastWriteTime     : 23-10-2025 21:08:14
+LastWriteTimeUtc  : 23-10-2025 15:38:14
+Attributes        : Directory
+Mode              : d-----
+BaseName          : unleashflags
+Target            : {}
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu\Videos
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\sindu
+PSChildName       : Videos
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : Videos
+FullName          : C:\Users\sindu\Videos
+Parent            : sindu
+Exists            : True
+Root              : C:\
+Extension         : 
+CreationTime      : 10-10-2025 15:38:27
+CreationTimeUtc   : 10-10-2025 10:08:27
+LastAccessTime    : 01-08-2026 19:21:49
+LastAccessTimeUtc : 01-08-2026 13:51:49
+LastWriteTime     : 10-10-2025 15:45:44
+LastWriteTimeUtc  : 10-10-2025 10:15:44
+Attributes        : ReadOnly, Directory
+Mode              : d-r---
+BaseName          : Videos
+Target            : {}
+LinkType          : 
+
+
+LastWriteTime : 14-10-2025 14:48:34
+Length        : 175
+Name          : .angular-config.json
+
+
+LastWriteTime : 31-07-2026 22:08:13
+Length        : 14942208
+Name          : NTUSER.DAT
+
+
+LastWriteTime : 10-10-2025 15:38:28
+Length        : 3944448
+Name          : ntuser.dat.LOG1
+
+
+LastWriteTime : 10-10-2025 15:38:28
+Length        : 3707904
+Name          : ntuser.dat.LOG2
+
+
+LastWriteTime : 10-10-2025 15:38:31
+Length        : 65536
+Name          : NTUSER.DAT{2eff3733-a62e-11f0-8ea1-bc24b354d1ad}.TM.blf
+
+
+LastWriteTime : 10-10-2025 15:38:28
+Length        : 524288
+Name          : NTUSER.DAT{2eff3733-a62e-11f0-8ea1-bc24b354d1ad}.TMContainer00000000000000000001.regtrans-ms
+
+
+LastWriteTime : 10-10-2025 15:38:28
+Length        : 524288
+Name          : NTUSER.DAT{2eff3733-a62e-11f0-8ea1-bc24b354d1ad}.TMContainer00000000000000000002.regtrans-ms
+
+
+LastWriteTime : 10-10-2025 15:38:28
+Length        : 20
+Name          : ntuser.ini
+
+
+---
+exit_code: 0
+elapsed_ms: 37154
+ended_at: 2026-08-01T14:09:40.040Z
+---

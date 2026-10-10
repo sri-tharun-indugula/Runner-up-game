@@ -1,0 +1,16 @@
+---
+pid: 1792
+cwd: "C:\\Users\\sindu"
+command: "node -v 2>&1; npm -v 2>&1; where.exe node 2>&1"
+started_at: 2026-08-01T14:00:18.186Z
+running_for_ms: 30032    
+---
+v18.20.8
+10.8.2
+C:\nvm4w\nodejs\node.exe
+
+---
+exit_code: 0
+elapsed_ms: 30669
+ended_at: 2026-08-01T14:00:48.855Z
+---

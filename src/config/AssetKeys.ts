@@ -1,0 +1,61 @@
+export const AssetKeys = {
+  Images: {
+    Logo: 'logo',
+    Background: 'background',
+    Ground: 'ground',
+    BgSky: 'bg-sky',
+    BgMountains: 'bg-mountains',
+    BgTrees: 'bg-trees',
+    BgGround: 'bg-ground',
+    GroundTile1: 'ground-tile-1',
+    GroundTile2: 'ground-tile-2',
+    GroundTile3: 'ground-tile-3',
+    ObstacleSpike: 'obstacle-spike',
+    ObstacleRock: 'obstacle-rock',
+    ObstacleMoving: 'obstacle-moving',
+    ObstaclePitMarker: 'obstacle-pit-marker',
+    ParticleSoft: 'particle-soft',
+    ParticleSpark: 'particle-spark',
+    ParticleDust: 'particle-dust',
+  },
+  Atlases: {
+    Particles: 'atlas-particles',
+    Obstacles: 'atlas-obstacles',
+  },
+  Frames: {
+    ParticleSoft: 'soft',
+    ParticleSpark: 'spark',
+    ParticleDust: 'dust',
+    ObstacleSpike: 'spike',
+    ObstacleRock: 'rock',
+    ObstacleMoving: 'moving',
+    ObstaclePitMarker: 'pit-marker',
+  },
+  Sprites: {
+    Player: 'player',
+    Coin: 'collectible-coin',
+    Gem: 'collectible-gem',
+    Magnet: 'collectible-magnet',
+    ScorePickup: 'collectible-score',
+    Shield: 'collectible-shield',
+    SpeedBoost: 'collectible-speed',
+    SlowMotion: 'collectible-slow',
+    ExtraLife: 'collectible-life',
+  },
+  Audio: {
+    Bgm: 'bgm',
+    Jump: 'jump',
+    Collect: 'collect',
+    CollectGem: 'collect-gem',
+    CollectMagnet: 'collect-magnet',
+    CollectScore: 'collect-score',
+    Hit: 'hit',
+    GameOver: 'game-over',
+    UiClick: 'ui-click',
+    UiStart: 'ui-start',
+  },
+} as const;
+
+export type ImageAssetKey = (typeof AssetKeys.Images)[keyof typeof AssetKeys.Images];
+export type SpriteAssetKey = (typeof AssetKeys.Sprites)[keyof typeof AssetKeys.Sprites];
+export type AudioAssetKey = (typeof AssetKeys.Audio)[keyof typeof AssetKeys.Audio];

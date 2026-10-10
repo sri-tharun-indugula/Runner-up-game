@@ -1,0 +1,24 @@
+---
+pid: 18312
+cwd: "C:\\Users\\sindu"
+command: "& \"C:\\Users\\sindu\\AppData\\Local\\nvm\\nvm.exe\" use 24.18.1 2>&1; node -v; npm -v; where.exe node"
+started_at: 2026-08-01T14:02:03.088Z
+running_for_ms: 30010    
+---
+Now using node v24.18.1 (64-bit)
+node : The term 'node' is not recognized as the name of a cmdlet, function, script file, or operable program. Check 
+the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At C:\Users\sindu\AppData\Local\Temp\ps-script-d5d4acb4-c90e-47c2-906f-4d583af46964.ps1:108 char:64
++ ... Users\sindu\AppData\Local\nvm\nvm.exe" use 24.18.1 2>&1; node -v; npm ...
++                                                              ~~~~
+    + CategoryInfo          : ObjectNotFound: (node:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+11.16.0
+C:\nvm4w\nodejs\node.exe
+
+---
+exit_code: 0
+elapsed_ms: 34022
+ended_at: 2026-08-01T14:02:37.110Z
+---
